@@ -13,5 +13,5 @@ class Main {
         for (int j=1; j<=numb ; j*=5){
             System.out.print(j+" ");
         }
-    }
+    }// Changes
 }

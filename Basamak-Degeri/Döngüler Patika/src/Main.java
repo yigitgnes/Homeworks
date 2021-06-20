@@ -24,4 +24,4 @@ class Main {
             tempNumber/=10;
         }System.out.println("Basamak değerleri toplamı: "+result);
     }
-}
+}// Changes

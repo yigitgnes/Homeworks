@@ -22,6 +22,6 @@ class Main {
 
         System.out.println("Toplam Tutar: "+(domates*1.11+armut*2.14+elma*3.67+muz*0.95+patlıcan*5));
 
-    }
+    }// Changes
 }
 

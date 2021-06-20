@@ -20,4 +20,4 @@ class Main {
         x = sum / ave;
         System.out.println("Girilen Sayıya Kadar Olan Sayılardan 3 ve 4 e Bölünebilenlerin Ortalaması: " + x);
     }
-}
+}// Changes

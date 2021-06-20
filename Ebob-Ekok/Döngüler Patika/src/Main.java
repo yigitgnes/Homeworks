@@ -36,4 +36,4 @@ public class Main {
         int ekok=(n1*n2)/ebob;
         System.out.println("EKOK: "+ekok);
     }
-}
+}// Changes

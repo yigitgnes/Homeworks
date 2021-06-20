@@ -35,5 +35,5 @@ class Main {
 
         double C = nFaktor / (rFaktor * (farkFaktor));
         System.out.println("C(" + n + "," + r + ")= " + C);
-    }
+    }// Changes
 }

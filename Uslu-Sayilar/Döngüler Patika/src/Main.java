@@ -18,5 +18,5 @@ class Main {
             total*=numb;
         }
         System.out.print("Sonuç: " + total);
-    }
+    }// Changes
 }

@@ -16,4 +16,6 @@ class Main {
         System.out.println("Toplam: "+sum);
 
     } // Homework
+    // Changes
+
 }

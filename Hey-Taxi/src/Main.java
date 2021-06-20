@@ -14,5 +14,5 @@ class Main {
         }else System.out.println("Hata! Lütfen Geçerli Bir Sayı Giriniz.");
 
     }
-}
+}// Changes
 

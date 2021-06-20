@@ -15,4 +15,4 @@ class Main {
         }
         System.out.println("Harmonik Seri Sonucu: "+result);
     }
-}
+}// Changes

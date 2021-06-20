@@ -55,4 +55,4 @@ public class Main {
 
         System.out.print("Ortalamanız: " + average);
     }
-}
+}// Changes

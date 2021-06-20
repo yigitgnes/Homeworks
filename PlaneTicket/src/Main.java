@@ -52,4 +52,4 @@ public class Main {
             }
         }else System.out.println("Hatalı veri girdiniz!");
     }
-}
+}// Changes

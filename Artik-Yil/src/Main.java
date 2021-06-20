@@ -20,5 +20,5 @@ public class Main {
             System.out.println(year + " Bir Artık Yıldır !");
         } else System.out.println(year + " Bir Artık Yıl Değildir !");
 
-    }
+    }// Changes
 }

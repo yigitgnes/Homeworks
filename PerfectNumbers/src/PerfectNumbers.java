@@ -20,4 +20,4 @@ public class PerfectNumbers {
             }else System.out.println(numb+" Mükemmel Sayı Değildir");
         }
     }
-}
+}// Changes
