@@ -2,37 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e79c39ff-ff22-445f-87de-43d7b9d039ef" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4xSayilar/Döngüler Patika/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/4xSayilar/Döngüler Patika/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ATM/Döngüler Patika/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ATM/Döngüler Patika/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Artik-Yil/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Artik-Yil/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basamak-Degeri/Döngüler Patika/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basamak-Degeri/Döngüler Patika/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic-Hesap-Makinesi/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Basic-Hesap-Makinesi/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Burc-Bulma/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Burc-Bulma/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculator++/src/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator++/src/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculator/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dairenin-ve-Dilimin-Alani/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Dairenin-ve-Dilimin-Alani/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Donguler-Patika/Döngüler Patika/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Donguler-Patika/Döngüler Patika/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ebob-Ekok/Döngüler Patika/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ebob-Ekok/Döngüler Patika/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Harmonik-seri/Döngüler Patika/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Harmonik-seri/Döngüler Patika/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hey-Taxi/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hey-Taxi/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KDV-Hesaplayici/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/KDV-Hesaplayici/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Komibasyon/Döngüler Patika/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Komibasyon/Döngüler Patika/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kullanici-Girisi/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Kullanici-Girisi/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kuvvet-Bulma/Döngüler Patika/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Kuvvet-Bulma/Döngüler Patika/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Manav-Kasas-/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Manav-Kasas-/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PerfectNumbers/src/PerfectNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/PerfectNumbers/src/PerfectNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PlaneTicket/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/PlaneTicket/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recursive-ile-Fibonacci/src/RecursiveileFibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/Recursive-ile-Fibonacci/src/RecursiveileFibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sinif-Gecme-Durumu/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sinif-Gecme-Durumu/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Siralama/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Siralama/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tavsiye/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tavsiye/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ucgenin-Alani/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ucgenin-Alani/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Uslu-Sayilar/Döngüler Patika/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Uslu-Sayilar/Döngüler Patika/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vucut-indexi/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Vucut-indexi/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Yildiz-Ucgen-Yapimi/Döngüler Patika/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Yildiz-Ucgen-Yapimi/Döngüler Patika/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chinese-zodiac/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/chinese-zodiac/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Masaüstü.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

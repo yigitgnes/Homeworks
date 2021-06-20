@@ -1,1 +1,4 @@
 # Homeworks
+
+
+Patika.dev Ödevleri
