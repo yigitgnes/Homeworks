@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e79c39ff-ff22-445f-87de-43d7b9d039ef" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MukemmelSayi/PatikaDev/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MukemmelSayi/PatikaDev/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MukemmelSayi/PatikaDev/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MukemmelSayi/PatikaDev/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MukemmelSayi/PatikaDev/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MukemmelSayi/PatikaDev/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MukemmelSayi/PatikaDev/PatikaDev.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MukemmelSayi/PatikaDev/src/Main.java" beforeDir="false" />
-    </list>
+    <list default="true" id="e79c39ff-ff22-445f-87de-43d7b9d039ef" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +15,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/MukemmelSayi" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1uDOPD03zgB31MXo3topfXaIxMv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
