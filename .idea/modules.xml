@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Calculator/Calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Calculator++/Calculator++.iml" filepath="$PROJECT_DIR$/Calculator++/Calculator++.iml" />
       <module fileurl="file://$PROJECT_DIR$/Dairenin-ve-Dilimin-Alani/Dairenin-ve-Dilimin-Alani.iml" filepath="$PROJECT_DIR$/Dairenin-ve-Dilimin-Alani/Dairenin-ve-Dilimin-Alani.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desktop.iml" filepath="$PROJECT_DIR$/Desktop.iml" />
       <module fileurl="file://$PROJECT_DIR$/Donguler-Patika/Donguler-Patika.iml" filepath="$PROJECT_DIR$/Donguler-Patika/Donguler-Patika.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ebob-Ekok/Ebob-Ekok.iml" filepath="$PROJECT_DIR$/Ebob-Ekok/Ebob-Ekok.iml" />
       <module fileurl="file://$PROJECT_DIR$/Harmonik-seri/Harmonik-seri.iml" filepath="$PROJECT_DIR$/Harmonik-seri/Harmonik-seri.iml" />
@@ -20,7 +21,6 @@
       <module fileurl="file://$PROJECT_DIR$/Kullanici-Girisi/Kullanici-Girisi.iml" filepath="$PROJECT_DIR$/Kullanici-Girisi/Kullanici-Girisi.iml" />
       <module fileurl="file://$PROJECT_DIR$/Kuvvet-Bulma/Kuvvet-Bulma.iml" filepath="$PROJECT_DIR$/Kuvvet-Bulma/Kuvvet-Bulma.iml" />
       <module fileurl="file://$PROJECT_DIR$/Manav-Kasas-/Manav-Kasas-.iml" filepath="$PROJECT_DIR$/Manav-Kasas-/Manav-Kasas-.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Masaüstü.iml" filepath="$PROJECT_DIR$/Masaüstü.iml" />
       <module fileurl="file://$PROJECT_DIR$/PerfectNumbers/PerfectNumbers.iml" filepath="$PROJECT_DIR$/PerfectNumbers/PerfectNumbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/PlaneTicket/PlaneTicket.iml" filepath="$PROJECT_DIR$/PlaneTicket/PlaneTicket.iml" />
       <module fileurl="file://$PROJECT_DIR$/Recursive-ile-Fibonacci/Recursive-ile-Fibonacci.iml" filepath="$PROJECT_DIR$/Recursive-ile-Fibonacci/Recursive-ile-Fibonacci.iml" />
