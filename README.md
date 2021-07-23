@@ -1,4 +1,6 @@
 # Homeworks
 
+## Java 101 Patikası İçin Oluşturduğum Depo
 
-Patika.dev Ödevleri
+
+UML Üniversite Yönetim Sistemi Ödevi;
